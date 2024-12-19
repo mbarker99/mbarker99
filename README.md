@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Snoozeloo](https://github.com/mbarker99/Snoozeloo)
   
-- 🌱 I’m currently learning **Jetpack Compose, Flutter, and Swift**
+- 🌱 I’m currently learning **Jetpack Compose, Flutter, React Native, and Swift**
 
 - 👨‍💻 All of my projects are available [here!](here!)
 
