@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Jetpack Compose, Flutter, React Native, and Swift**
 
-- 👨‍💻 All of my projects are available [here!](here!)
+- 👨‍💻 All of my projects are available [here!](https://github.com/mbarker99?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
