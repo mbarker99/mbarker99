@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Native Android developer from Georgia, USA</h3>
 
 - 🔭 I’m currently working on [Snoozeloo](https://github.com/mbarker99/Snoozeloo)
-  
-- 🌱 I’m currently learning **Jetpack Compose, Flutter, React Native, and Swift**
+
+- 🌱 I’m currently learning **ReactJS, Flutter, React Native, and Swift**
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/mbarker99?tab=repositories)
 
