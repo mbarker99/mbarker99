@@ -1,12 +1,17 @@
-# Hi there, I'm Michael 👋
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="100" alt="Android Logo"/>
+</p>
 
-I build Android apps.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Michael.;I+build+Android+apps." alt="Typing SVG" />
+</p>
+
 
 ## 🛠️ Languages and Tools
 
 ![Languages and Tools](https://skillicons.dev/icons?i=kotlin,java,androidstudio,ktor,gradle,firebase,git,github,bitbucket,sqlite,figma,linux,postman,react)
 
-## 🛠️ Learning Topics
+## 📚 Learning Topics
 
 ![Languages and Tools](https://skillicons.dev/icons?i=react,tailwind,spring,mongodb,supabase,swift)
 
