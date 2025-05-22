@@ -21,6 +21,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarker99&layout=compact&theme=github_dark)
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mbarker99&theme=onedark)](https://github.com/mbarker99/) -->
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbarker99)
